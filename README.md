@@ -25,10 +25,6 @@
  理论上Android 9以上都支持，Android12以上需要授予获取软件列表权限。
 
 
-> [!CAUTION]
->
-> 该应用需要 Magisk、KernelSU 和 APatch 来获取 root 权限，并且需要 XPosed/LSPosed 框架。任何替代方法都将无效。
-
 ## 许可
 本项目采用[AGPL许可证](LICENSE)，详情请参阅LICENSE文件。
 
